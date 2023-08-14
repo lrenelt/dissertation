@@ -22,3 +22,6 @@
 [submodule "dune-pdelab"]
 	path = dune-pdelab
 	url = ssh://git@gitlab.dune-project.org:22022/pdelab/dune-pdelab.git
+[submodule "dune-grid"]
+	path = dune-grid
+	url = ssh://git@gitlab.dune-project.org:22022/core/dune-grid.git
